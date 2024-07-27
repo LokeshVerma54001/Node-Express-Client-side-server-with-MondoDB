@@ -1,0 +1,34 @@
+
+2024/07/24	15:15::47	adedb3b3-7e9d-4111-a6fd-1b6a6421e1d2	TypeError	fsPromises.readFil is not a function
+2024/07/25	12:33::51	4d063606-9431-4c87-8adf-d37a81f37cf5	Error: Not allowed by CORS
+2024/07/25	13:05::10	7338926a-fbda-4ebc-9d8f-43f782c0199d	Error: ENOENT: no such file or directory, stat 'C:\code\html\node\npm\views\subdir\test.html'
+2024/07/25	14:29::49	8d9958ed-006f-4459-802e-a99c792676e2	TypeError: req.json is not a function
+2024/07/25	14:30::01	723f8cd1-febb-4156-9386-8e3c7514bdec	TypeError: req.json is not a function
+2024/07/25	14:30::01	bec5b2ad-7764-4938-a8cc-0e310320b507	TypeError: req.json is not a function
+2024/07/25	14:30::08	451550da-7a9a-4d66-8e42-3c0d7451cc51	TypeError: req.json is not a function
+2024/07/25	14:30::47	feecacde-93ed-4e46-bae7-b45e8fdbc904	TypeError: req.json is not a function
+2024/07/25	14:30::48	124d1a7d-5886-4331-a8cb-fe93c251284c	TypeError: req.json is not a function
+2024/07/25	14:30::49	1dd758e7-453c-4dbd-8c27-44d72c09e3df	TypeError: req.json is not a function
+2024/07/25	14:30::49	e43c80cb-9602-454d-bfac-81d3c4eb89da	TypeError: req.json is not a function
+2024/07/25	14:31::16	83e77c47-a96f-47f0-a37e-6dc8b258ab7c	TypeError: req.json is not a function
+2024/07/25	14:31::17	007aa2f7-2edd-4f4a-8072-49d996229d0b	TypeError: req.json is not a function
+2024/07/25	14:31::17	a7ea7c84-58c9-489a-a382-fbd22d144e40	TypeError: req.json is not a function
+2024/07/25	14:31::17	18e7f94c-0d75-479f-aab1-0a8dd565e9c9	TypeError: req.json is not a function
+2024/07/25	14:32::08	3bff453b-ab6e-4ec4-befe-e20868c91e4c	TypeError: req.json is not a function
+2024/07/25	14:32::08	fd414a64-fc27-476f-a352-6fceae0cb911	TypeError: req.json is not a function
+2024/07/25	14:32::09	77983e9b-16a0-4e2d-aa1b-30fb07b53551	TypeError: req.json is not a function
+2024/07/25	14:32::09	fc65e30f-7a31-48a9-8b9d-d88e0ce41443	TypeError: req.json is not a function
+2024/07/25	16:23::40	44e9902c-ff26-4e67-9f74-a972a32fea78	TypeError: data.setEmployees is not a function
+2024/07/25	16:28::08	78c2fddd-f73c-4815-bb18-f64ff6d91e7f	TypeError: data is not iterable
+2024/07/25	16:28::09	e77a9432-6715-4032-9f7d-ca0fb119e77d	TypeError: data is not iterable
+2024/07/25	16:28::09	b904d602-0150-4e1d-863a-0112d7db8307	TypeError: data is not iterable
+2024/07/25	16:35::36	838086e0-a825-4c67-8cbb-070a0f601a35	ReferenceError: Cannot access 'newEmployee' before initialization
+2024/07/25	16:35::54	5fbc1e5e-470a-4e1f-ae55-e4527c4277d6	ReferenceError: Cannot access 'newEmployee' before initialization
+2024/07/25	16:35::55	d9f259d1-be3e-4d71-acfe-ed57ae54743c	ReferenceError: Cannot access 'newEmployee' before initialization
+2024/07/25	16:35::55	087e5d97-fae6-42b1-9db4-1e51e96db0d5	ReferenceError: Cannot access 'newEmployee' before initialization
+2024/07/25	16:35::56	1892051e-3813-4e1d-bb1c-3c625485f74a	ReferenceError: Cannot access 'newEmployee' before initialization
+2024/07/26	20:33::30	e01f8be3-0f19-4daf-8305-b82bb060035c	TypeError: Cannot read properties of undefined (reading 'origin')
+2024/07/26	20:34::24	dbfa2706-f32d-4c65-8a06-29339cf4efce	TypeError: Cannot read properties of undefined (reading 'origins')
+2024/07/26	20:34::24	32dab239-1f3b-4691-afc6-d9f77bf2948f	TypeError: Cannot read properties of undefined (reading 'origins')
+2024/07/26	20:34::25	7e4a1c98-eab7-4e57-86ac-a74846a12e21	TypeError: Cannot read properties of undefined (reading 'origins')
+2024/07/27	12:54::07	738cb4c4-3378-4223-8d61-8b7d4dc246c3	SyntaxError: Expected ',' or '}' after property value in JSON at position 11 (line 2 column 10)
